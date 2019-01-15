@@ -6,7 +6,9 @@
 
 > Here's how _you push_ to github
 
-'''html<p> I drank purple drank?</p>'''
+```html
+<p> I drank purple drank?</p>
+```
 
 ## Lists I _like_
 ### Bullet
